@@ -13,3 +13,5 @@ There is only one script contained in this file, which works through 3 steps:
 
 
 The only thing to do is to replace the distination folder for the data and the script should model the data as described in the assignment.  
+
+I hope this is sufficient description.
